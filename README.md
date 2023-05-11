@@ -18,9 +18,9 @@ Nowadays, notifications play a crucial role in every type of application, be it 
     - [Local](#💻-local-environment)
     - [Docker](#🐳-docker-environment)
 - [User Manual](#📋-user-manual)
-- [Code Of Conduct](#📋-read-our-code-of-conduct)
-- [License](#🛡️-license)
-- [Contributions](#🤝-thanks-to-all-contributors)
+- [Code Of Conduct](#-read-our-code-of-conduct)
+- [License](#-license)
+- [Contributions](#-thanks-to-all-contributors)
 
 ## ✨ Features
 - 📨 Supports email, SMS, and push notifications, as well as webhooks to send data to internal services.
@@ -150,13 +150,13 @@ Check http://localhost:3000
 Good Luck 👍
 
 
-## 📋 Read Our Code Of Conduct
+## 📜 Read Our Code Of Conduct
 
 Before you begin coding and collaborating, please read our [Code of Conduct](https://github.com/vivasoft-ltd/Envoyer/blob/main/CODE_OF_CONDUCT.md) thoroughly to understand the standards (that you are required to adhere to) for community engagement. As part of our open-source community, we hold ourselves and other contributors to a high standard of communication. As a participant and contributor to this project, you are agreeing to abide by our [Code of Conduct](https://github.com/vivasoft-ltd/Envoyer/blob/main/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/vivasoft-ltd/Envoyer/blob/main/CONTRIBUTING.md).
 
 
 
-## 🛡️ License
+## 📝 License
 
 Envoyer is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/vivasoft-ltd/Envoyer/blob/main/LICENSE) file for details.
 
