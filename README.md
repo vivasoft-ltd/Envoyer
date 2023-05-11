@@ -1,5 +1,11 @@
 # Envoyer
 
+## Features
+  [Features](https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/features.md)
+
+## User Manual
+  [User Manual](https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/user_manual.md)
+
 ## Development environment
 
 Go to `envoyer_backend` directory 
