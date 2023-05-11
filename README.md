@@ -1,6 +1,6 @@
 # Envoyer
 
-## Features
+## ✨ Features
   [Features](https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/features.md)
 
 ## User Manual
