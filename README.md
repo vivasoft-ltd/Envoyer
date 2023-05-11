@@ -100,3 +100,5 @@ docker-compose up
 Check http://localhost:8081/ping
 
 Check http://localhost:3000
+
+Good Luck 👍
