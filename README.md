@@ -38,10 +38,10 @@ Nowadays, notifications play a crucial role in every type of application, be it 
 ## 📡 Providers
 Envoyer provides simple user interface for manage multiple notifications providers across multiple channels.
 
-#### 💌 Email
+#### :mailbox: Email
 - SMTP
 
-#### 📞 SMS
+#### :inbox_tray: SMS
 - Twilio
 - Nexmo - Vonage
 
