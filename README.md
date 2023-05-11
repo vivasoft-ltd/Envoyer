@@ -1,6 +1,6 @@
 <!-- # Envoyer -->
 <div align="center">
-<h1 align="center">Envoyer</h1>
+<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/logo.png" width="300" alt="Logo"/>
 <h3 align="center">Simplify Notification Management with Customizable Templates and Multi-Provider Integration</h3>
 </div>
 
@@ -14,6 +14,7 @@ Nowadays, notifications play a crucial role in every type of application, be it 
   - [Email](#-email)
   - [SMS](#-sms)
   - [Push](#-push)
+ - [Demo](#-demo)
 - [Getting Started](#-getting-started)
     - [Local](#-local-environment)
     - [Docker](#-docker-environment)
@@ -46,6 +47,21 @@ Envoyer provides simple user interface for manage multiple notifications provide
 
 #### 📱 Push
 - FCM
+
+## 🎨 Demo
+Integrate different provider
+
+<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/twilio.png"/>   <img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/smtp.png"/>
+
+Add template
+
+
+<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/add_template.png"/>
+<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/template.png"/>
+
+Save multiple template and manage them easily.
+
+<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/multi_template.png"/>
 
 ## 🚀 Getting Started
 
