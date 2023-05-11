@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'nprogress/nprogress';
+
+@import 'react-toastify/dist/ReactToastify.css';
+
+#nprogress .bar {
+  background: #0798f8;
+  height: 3px;
+}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px #f8078c, 0 0 5px #f80713;
+}
+
+iframe {
+  min-width: 100% !important;
+}

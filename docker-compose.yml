@@ -1,0 +1,22 @@
+version: '3.3'
+
+services:
+  envoyer:
+    container_name: envoyer
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - envoyer_db:/var/lib/mysql
+      - envoyer_rabbitmq:/var/lib/rabbitmq
+    ports:
+      - "8051:3000"
+      - "54725:15672"
+      - "9000:3306"
+    environment:
+      GOPATH: /go/
+    tty: true
+
+volumes:
+  envoyer_db:
+  envoyer_rabbitmq:

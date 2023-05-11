@@ -1,0 +1,7 @@
+.git/
+.idea/
+node_modules/*
+.next/
+.vscode/
+vendor/*
+!vendor/vendor.json
