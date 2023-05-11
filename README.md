@@ -51,13 +51,11 @@ Envoyer provides simple user interface for manage multiple notifications provide
 ## 🎨 Demo
 Integrate different provider
 
-<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/twilio.png"/>   <img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/smtp.png"/>
+<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/form.png"/>  
 
 Add template
 
-
-<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/add_template.png"/>
-<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/template.png"/>
+<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/template2.png"/>
 
 Save multiple template and manage them easily.
 
