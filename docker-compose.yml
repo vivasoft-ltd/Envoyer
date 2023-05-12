@@ -10,9 +10,10 @@ services:
       - envoyer_db:/var/lib/mysql
       - envoyer_rabbitmq:/var/lib/rabbitmq
     ports:
-      - "8051:3000"
-      - "54725:15672"
-      - "9000:3306"
+      - "3000:3000"
+      - "8081:8081"
+      - "15672:15672"
+      - "3306:3306"
     environment:
       GOPATH: /go/
     tty: true

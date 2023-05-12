@@ -55,7 +55,7 @@ Integrate different provider
 
 Add template
 
-<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/template2.png"/>
+<img src="https://github.com/vivasoft-ltd/Envoyer/blob/main/envoyer_backend/doc/template.png"/>
 
 Save multiple template and manage them easily.
 
